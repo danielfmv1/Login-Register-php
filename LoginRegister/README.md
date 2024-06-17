@@ -1,14 +1,6 @@
-## Descripción
 
-Desarrollo de login y register php
-
-
-## Autor
-
-
-
-<h3 align="left">Descripción </h3>
-<h1 align="left">Desarrollo de login y register php</h1>
+<h1 align="left">Descripción </h1>
+<h3 align="left">Desarrollo de login y register php</h3>
 
 <h3 align="left">Autor</h3>
 <p align="left">
